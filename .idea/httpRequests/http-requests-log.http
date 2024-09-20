@@ -1,0 +1,253 @@
+DELETE https://66eccaed2b6cf2b89c5f4e3f.mockapi.io/IoTCarStatus/4
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-19T203248.200.json
+
+###
+
+PUT https://66eccaed2b6cf2b89c5f4e3f.mockapi.io/IoTCarStatus/3
+Content-Type: application/json
+Content-Length: 128
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+ {
+    "status": "Prueba PUT",
+    "date": 1726794567,
+    "ipClient": "220.136.217.73",
+    "name": "Cambio",
+    "id": "3"
+  }
+
+<> 2024-09-19T203154.200.json
+
+###
+
+POST https://66eccaed2b6cf2b89c5f4e3f.mockapi.io/IoTCarStatus
+Content-Type: application/json
+Content-Length: 129
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+ {
+    "status": "Prueba POST",
+    "date": 1726794567,
+    "ipClient": "220.136.217.73",
+    "name": "Cambio",
+    "id": "1"
+  }
+
+<> 2024-09-19T203001.201.json
+
+###
+
+DELETE http://127.0.0.1:5000/saludo
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": c781d56e-7df8-4d6e-a071-990045e8393c,
+  "price": 794,
+  "ts": 1726798262,
+  "value": "content"
+}
+
+<> 2024-09-19T201102-3.200.json
+
+###
+
+PUT http://127.0.0.1:5000/saludo
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 511a56cb-a4b3-40b4-92cb-1c3b1eb2063d,
+  "price": 321,
+  "ts": 1726798262,
+  "value": "content"
+}
+
+<> 2024-09-19T201102-2.200.json
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": ede0c74e-ac1e-4520-82bc-a625687d0656,
+  "price": 927,
+  "ts": 1726798262,
+  "value": "content"
+}
+
+<> 2024-09-19T201102-1.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T201102.200.json
+
+###
+
+DELETE http://127.0.0.1:5000/saludo
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": a6ce58ec-20de-4379-af94-b7a93853ff0a,
+  "price": 820,
+  "ts": 1726793351,
+  "value": "content"
+}
+
+<> 2024-09-19T184911.405.html
+
+###
+
+PUT http://127.0.0.1:5000/saludo
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 810d1af7-4629-4a4d-8ea3-d828d0508751,
+  "price": 333,
+  "ts": 1726793313,
+  "value": "content"
+}
+
+<> 2024-09-19T184833.405.html
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T184830.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T184641.200.json
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1433b3cd-2166-4c93-a5a0-1f743b5eff33,
+  "price": 520,
+  "ts": 1726793199,
+  "value": "content"
+}
+
+<> 2024-09-19T184639.405.html
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": e3d429bd-5616-4aa3-8223-c1a38608b99b,
+  "price": 19,
+  "ts": 1726793192,
+  "value": "content"
+}
+
+<> 2024-09-19T184632.405.html
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Content-Type: application/json
+Content-Length: 106
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": ca20ef28-2bc8-4ab2-8b32-60e8a6f5d67e,
+  "price": 289,
+  "ts": 1726793177,
+  "value": "content"
+}
+
+<> 2024-09-19T184617.405.html
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T180317.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T180221.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-19T180043.200.json
+
+###
+
